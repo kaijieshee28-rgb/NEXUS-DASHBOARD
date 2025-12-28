@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Dashboard",
+  "description": "A modern, block-tile dashboard with customizable shortcuts and an integrated AI assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
